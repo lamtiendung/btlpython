@@ -1,0 +1,20 @@
+[
+    {
+        "customer_id": "112",
+        "name": "dung",
+        "phone": "0911695882",
+        "email": "dung@gmail.com"
+    },
+    {
+        "customer_id": "113",
+        "name": "duc",
+        "phone": "01258795604",
+        "email": "duc@gmail.com"
+    },
+    {
+        "customer_id": "114",
+        "name": "giang",
+        "phone": "0906020654",
+        "email": "giang@gmail.com"
+    }
+]
